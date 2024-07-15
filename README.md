@@ -47,8 +47,6 @@ The React Todo Management App is a comprehensive web application that includes t
 - Create Retrieve Todos Spring Boot REST API Get Method.
 - Display Todos from Spring Boot REST API in React App.
 - Create Retrieve Todo and Delete Todo Spring Boot REST API Methods.
-- Add Delete Feature to React Frontend.
-- Set Username into React Auth Context.
 - Create Todo React Component to display Todo Page.
 - Add Formik and Moment Libraries to Display Todo React Component.
 - Add Validation to Todo React Component using Formik.
@@ -58,12 +56,10 @@ The React Todo Management App is a comprehensive web application that includes t
 - Secure Spring Boot REST API with Spring Security.
 - Add Authorization Header in React to Spring Boot REST API calls.
 - Configure Spring Security to allow all Options Requests.
-- Call Basic Authentication Service when Logging into React App.
 - Use async and await to invoke Basic Auth API.
 - Set Basic Auth Token into Auth Context.
 - Set up Axios Interceptor to add Authorization Header.
 - Debug Problems with Basic Auth and Spring Boot.
-- Get Started with JWT and Spring Security.
 - Integrate Spring Security JWT REST API with React Frontend.
 - Debug Problems with JWT Auth and Spring Boot.
 
